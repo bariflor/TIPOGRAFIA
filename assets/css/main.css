@@ -1,0 +1,52 @@
+/**{
+	outline: 1px solid red;
+}*/
+.contenedor{
+
+}
+.icon-diamond{
+	color: #5db8d4;
+	font-size: 60px;
+	
+}
+.icon-heart{
+	font-size: 60px;
+	color: red;
+}
+.icon-cup{
+	font-size: 60px;
+	color: green;
+}
+.icon-paperplane{
+	font-size: 60px;
+	color: black;
+}
+.icon-food{
+	font-size: 60px;
+	color: orange;
+}
+.box{
+	width: 220px;
+	height: 400px;
+	box-shadow: 8px 10px 14px -8px #CECECE;
+	float: left;
+	text-align: center;
+	background-color: #F4F1F1;
+	padding-top: 30px;
+	margin: 5px;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease; 
+}
+h2{
+	font-family: 'Playfair Display', serif;
+	color: #777777;
+}
+.box:hover{
+	padding-top: 20px;
+	color: white;
+	background-color: #fff;
+	-webkit-transform: scale(1.1);
+	color:#8C8F98;
+	-webkit-transition: all .0.5s ease-in-out; 
+}
+
